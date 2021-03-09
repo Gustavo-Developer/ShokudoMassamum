@@ -1,55 +1,38 @@
-<img src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif" width="300" align="right">
+<img src="./START.png" width="300" align="left">
+<img src="./MENU.png" width="300" align="right">
 
-### 404...
+### 🥤 Japan Shokudo Massamum
+
 <p align="left"> 
-  Space from World
-  ...🌌
+  Durante a pandemia, diversos estabelecimentos e instituições tiveram que se adaptar a tecnlogia  ...🌌
    <br>
-    👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>👨🏽‍🚀
+    E com o <strong>Shokudo Massamum</strong>👨🏽‍🚀 Não foi direfente,
    <br>
-   👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀
+   Esse Projeto foi desenvolvido para auxiliar o restaurante nesse momento de pandemia,
    <br>
-   ...🌌
 
 </p>
 
-### 🚀 Skills 🚀
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🪐Fallow me and Contact me 🪐
+### 🍣 Cardápio digital
 
 <p align="left">
-  <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" /></a>
+  O cardápio digital proporciona ao cliente um pré atendimento,
+  <br>
+  Atráves dele o cliente tem uma íncrivel experiência, 
+  <br>
+  Basta apontas seu celular ao QR Code, que terá acesso ao Menu do cardápio.
+</p>
 
+### Fallow me and Contact me
+
+<p align="left">
+  
   <a href="https://www.linkedin.com/in/gustavo-mendes-00661318b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-mendes-00661318b/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511948881978&text=Olá%20Gustavo,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Gustavo,%20tudo%20bem?"/></a>
 
+ </p>
 
-  <a href="https://www.instagram.com/mendess.gu/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/"/></a>
-
-  <a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
-</p> 
-
-
+### Desenvolvido por Gustavo Mendes.
