@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color:#d32f2f ;
+    background-size: 100% ;
+    background-repeat: no-repeat;   
+}
+/* Header */
+header {
+    text-align: center;
+    margin: 2% 0;
+}
+
+header img {
+    width: 19rem;
+    text-align: center;
+}
+
+
+/* FORMAT TITLE  */ 
+h1 {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    
+}
+
+
+
+/* FORMAT LOGO */ 
+h2 {
+    font-weight: bold;
+    color: #FFEA00;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    text-shadow: 0.1em 0.1em 0.05em #000;
+}
+
+
+@media (max-width: 580px) {
+    h2 {
+        margin-left: 0%;
+    }
+}
+
+
+/* FORMAT Button */ 
+.btn {
+   font-weight: bold;
+   width: 200px;
+   color: #fff;
+   text-align: center;
+   justify-content: center;
+}
+.btn:first-child {
+    margin: 10px 0;
+}
+
+/* Animation Button */ 
+.quadrado {
+    animation: go-back 1s;
+}
+
+.circulo {
+    animation: go-back 1.6s;
+}
+
+.triangulo {
+    animation: go-back 2.4s;
+}
+
+
+
+
+@keyframes go-back {
+    0% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}

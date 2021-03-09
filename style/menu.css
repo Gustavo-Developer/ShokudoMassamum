@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #121214;
+}
+
+
+/* Header */
+header {
+    text-align: center;
+    margin: 2% 0;
+}
+
+header img {
+    width: 19rem;
+    text-align: center;
+}
+
+/* Button */
+.back {
+    background: #F2F3F5;
+    border-radius: 10px;
+}
+
+.menu {
+    background-color: #fff;
+    margin: 2rem 10%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.2);
+}
+
+/* Card */
+h1 {
+    font-weight: bold;
+    margin-top: 1rem;
+    font-family: 'Roboto' sans-serif;
+    color:#fff;
+}
+
+p{
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+}
+
+.price {
+     color: #4CD62B;
+     font-family: 'Roboto' sans-serif;
+     font-weight: bold;
+}
+
+h2 {
+    color: #4CD62B;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 30px;
+    font-family: 'Roboto' sans-serif;
+}
+
+
+/* Product */
+img {
+    margin: 1rem 0;
+}
+.img-fluid {
+    border-radius: 10px;
+    
+}
+
+.text-danger {
+    font-weight: bold;
+} 
+
+.t{
+    background: #F2F3F5;
+}
+
+.t:first-child {
+    padding-left: 10px;
+}
+
+
+.button-cover {
+    background-color: #f2f3f5;
+    width: 200px;
+    height: 26px;
+    border-radius: 5px;
+}
+
+
+/* Ajusts */
+
+.acert {
+    width: 110px;
+}
+
+.set {
+    margin-bottom: 20px;
+}
+
+/* Thx */
+
+.thx:first-child {
+    font-weight: bold;
+    font-size: 26px;
+}
